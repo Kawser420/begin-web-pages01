@@ -1,0 +1,40 @@
+/* google fonts shared here */
+body {
+  font-family: "Open Sans", serif;
+}
+
+/* nav related style */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text-primary {
+  color: coral;
+}
+.nav-title {
+  font-size: 45px;
+  font-weight: 800;
+  color: rgb(0, 0, 0);
+}
+nav > ul {
+  display: flex;
+  align-items: center;
+}
+
+nav li {
+  list-style: none;
+  margin-right: 50px;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+}
+.btn-primary {
+  background-color: coral;
+  padding: 15px 30px;
+  color: white;
+  border-radius: 10px;
+  border: 0;
+}
