@@ -64,3 +64,52 @@ nav a {
   color: slateblue;
   margin-top: 5px;
 }
+/* main section started */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+/* About Section start */
+.name-title {
+  font-size: 25px;
+  text-align: center;
+}
+.my-details {
+  text-align: center;
+}
+.about-section {
+  background-color: #fff8f3;
+  margin: 100px 0;
+  padding: 100px 100px 0px 100px;
+  border-radius: 10px;
+}
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+}
+.about-info {
+  text-align: center;
+}
+#what-can-i-do {
+  margin-top: 0;
+}
+.what-can {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+}
+.what-description {
+  text-align: center;
+  padding: 30px 120px;
+}
+/* skills */
+.skills-container {
+  display: flex;
+}
+.skill {
+  border: 1px solid red;
+  box-shadow: wheat;
+  background-color: #dddddd;
+  padding: 3px;
+  margin: 5px;
+}
