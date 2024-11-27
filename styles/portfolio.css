@@ -68,6 +68,7 @@ nav a {
 main {
   max-width: 1140px;
   margin: 0 auto;
+  margin-top: 100px;
 }
 /* About Section start */
 .name-title {
@@ -105,11 +106,21 @@ main {
 /* skills */
 .skills-container {
   display: flex;
+  gap: 24px;
 }
 .skill {
-  border: 1px solid red;
-  box-shadow: wheat;
-  background-color: #dddddd;
-  padding: 3px;
-  margin: 5px;
+  padding: 30px;
+  background-color: #fff8f3;
+  box-sizing: 0px 6px 50px 0px rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+/* resume styles here */
+.resume-container {
+  display: flex;
+}
+.resume-column-title {
+  font-size: 30px;
+  font-weight: 600;
+  color: black;
 }
