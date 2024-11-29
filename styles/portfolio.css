@@ -119,8 +119,30 @@ main {
 .resume-container {
   display: flex;
 }
+.resume-container hr {
+  margin: 30px;
+  color: gray;
+}
 .resume-column-title {
   font-size: 30px;
   font-weight: 600;
   color: black;
+  margin-bottom: 0;
+}
+.resume-item-title {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.resume-item-institute {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: rgba(0, 0, 0, 0.596);
+}
+.resume-item-description {
+  margin-top: 0;
+  color: rgba(0, 0, 0, 0.596);
+}
+.download-cv {
+  text-align: center;
+  margin-top: 50px;
 }
