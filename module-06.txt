@@ -1,0 +1,11 @@
+6-1 Module Introduction, Project Overview And Git Setup
+6-2 Set Google Fonts And Set Navbar And Primary Color
+6-3 Navbar alinment and use of flex
+6-4 Banner Content And Portfolio Image Using Flex
+6-5 Use Flexbox For About Info And main style
+6-6 Technical Skills, Flex Gap And How To Apply Flex
+6-7 Resume Section Education And Experience Area
+6-8 Style Footer contact form and style attribute
+6-9 Deploy to github page
+6-10 Add icons using Font Awesome
+6-11 [listen carefully]Practice Task New Year New Me
